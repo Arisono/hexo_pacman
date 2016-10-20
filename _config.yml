@@ -2,12 +2,14 @@
 menu:
   主页: /
   文章: /archives
-  互联网: /business
+  导航: /navigation
   Android: /android
   iOS: /iOS
   前端: /javascript
   后端: /spring
   工具: /tools
+  互联网: /business
+  时间轴: /times
   关于: /about
   
 ## you can create `tags` and `categories` folders in `../source`.
